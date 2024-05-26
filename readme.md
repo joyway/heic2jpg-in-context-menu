@@ -18,3 +18,4 @@ Scripts to convert HEIC files to JPG
 1. Select HEIC files in the Windows Explorer
 2. Right click then "Send To" -> [The Shortcut You Created], for Windows 11 you may need to click "Show more options" to see the "Send To" option
 3. A dialog will show up once the conversion is complete
+4. The JPG files will be saved at the same folder of the original HEIC files
